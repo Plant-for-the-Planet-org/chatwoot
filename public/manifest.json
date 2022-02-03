@@ -1,6 +1,6 @@
 {
-  "name": "Chatwoot",
-  "short_name": "Chatwoot",
+  "name": "Planet Chat",
+  "short_name": "Planet Chat",
   "icons": [{
     "src": "\/android-icon-36x36.png",
     "sizes": "36x36",
@@ -38,6 +38,7 @@
     "density": "4.0"
    }],
   "start_url": "/",
+  "id":"org.plant-for-the-planet.chat",
   "display": "standalone",
   "background_color": "#1f93ff",
   "theme_color": "#1f93ff"
