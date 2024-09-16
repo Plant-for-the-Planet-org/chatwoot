@@ -1,21 +1,21 @@
 # if you dont specify locked attribute, the default value will be true
 # which means the particular config will be locked
 - name: INSTALLATION_NAME
-  value: 'Chatwoot'
+  value: 'Plant-for-the-Planet'
 - name: LOGO_THUMBNAIL
-  value: '/brand-assets/logo_thumbnail.svg'
+  value: 'https://cdn.plant-for-the-planet.org/logo/svg/planet.svg'
 - name: LOGO
-  value: '/brand-assets/logo.svg'
+  value: 'https://cdn.plant-for-the-planet.org/logo/svg/planet.svg'
 - name: BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://www.plant-for-the-planet.org'
 - name: WIDGET_BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value:
 - name: BRAND_NAME
-  value: 'Chatwoot'
+  value: 'Plant-for-the-Planet'
 - name: TERMS_URL
-  value: 'https://www.chatwoot.com/terms-of-service'
+  value: 'https://www.pp.eco/legal/en/terms'
 - name: PRIVACY_URL
-  value: 'https://www.chatwoot.com/privacy-policy'
+  value: 'https://www.pp.eco/legal/en/privacy'
 - name: DISPLAY_MANIFEST
   value: true
 - name: MAILER_INBOUND_EMAIL_DOMAIN

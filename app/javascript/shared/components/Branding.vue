@@ -1,5 +1,5 @@
 <template>
-  <div v-if="globalConfig.brandName" class="px-0 py-3 flex justify-center">
+  <div v-if="globalConfig.widgetBrandURL" class="px-0 py-3 flex justify-center">
     <a
       :href="brandRedirectURL"
       rel="noreferrer noopener nofollow"
